@@ -1,4 +1,4 @@
-##👋 Olá, sou Elyn Beatriz!
+👋 Olá, sou Elyn Beatriz!
 Atualmente sou estudante de Desenvolvimento Web Full Stack pelo Serratec - Parque Tecnológico da Região Serrana RJ.
 
 💻 Foco principal: Desenvolvimento Web
