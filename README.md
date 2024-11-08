@@ -1,22 +1,15 @@
-👋 Olá, sou Elyn Beatriz!
+## 👋 Olá, sou Elyn Beatriz!
 
+Atualmente sou estudante de **Desenvolvimento Web Full Stack** pelo **Serratec - Parque Tecnológico da Região Serrana RJ**.
 
-Atualmente sou estudante de Desenvolvimento Web Full Stack pelo Serratec - Parque Tecnológico da Região Serrana RJ.
+- 💻 **Foco principal:** Desenvolvimento Web
+- 🎯 **Objetivo:** Tornar-me uma desenvolvedora Full Stack versátil e construir uma carreira sólida em tecnologia
 
+### 🌱 Habilidades
 
-💻 Foco principal: Desenvolvimento Web
+- **Linguagens e Tecnologias:** Java, JavaScript, React.js, Spring Boot, APIs REST
+- **Projetos:** Experiência em desenvolvimento de aplicações web e protótipos de rede social
 
-🎯 Objetivo: Tornar-me uma desenvolvedora Full Stack versátil e construir uma carreira sólida em tecnologia
+### 📫 Como me encontrar
 
-
-🌱 Habilidades
-
-Linguagens e Tecnologias: Java, JavaScript, React.js, Spring Boot, APIs REST
-
-
-Projetos: Experiência em desenvolvimento de aplicações web e protótipos de rede social
-
-
-📫 Como me encontrar
-
-[Linkedin](https://www.linkedin.com/in/elyn-beatriz-v-959381150/) 
+[LinkedIn](https://www.linkedin.com/in/elyn-beatriz-v-959381150/)
