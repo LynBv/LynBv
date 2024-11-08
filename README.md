@@ -3,6 +3,7 @@
 Atualmente sou estudante de Desenvolvimento Web Full Stack pelo Serratec - Parque Tecnológico da Região Serrana RJ.
 
 💻 Foco principal: Desenvolvimento Web
+
 🎯 Objetivo: Tornar-me uma desenvolvedora Full Stack versátil e construir uma carreira sólida em tecnologia
 
 🌱 Habilidades
