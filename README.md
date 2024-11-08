@@ -1,16 +1,13 @@
-## Hi there 👋
+##👋 Olá, sou Elyn Beatriz!
+Atualmente sou estudante de Desenvolvimento Web Full Stack pelo Serratec - Parque Tecnológico da Região Serrana RJ.
 
-<!--
-**LynBv/LynBv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Foco principal: Desenvolvimento Web
+🎯 Objetivo: Tornar-me uma desenvolvedora Full Stack versátil e construir uma carreira sólida em tecnologia
 
-Here are some ideas to get you started:
+🌱 Habilidades
+Linguagens e Tecnologias: Java, JavaScript, React.js, Spring Boot, APIs REST
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projetos: Experiência em desenvolvimento de aplicações web e protótipos de rede social
+
+📫 Como me encontrar
+[Linkedin](https://www.linkedin.com/in/elyn-beatriz-v-959381150/) 
