@@ -13,3 +13,6 @@ Atualmente sou estudante de **Desenvolvimento Web Full Stack** pelo **Serratec -
 ### 📫 Como me encontrar
 
 [LinkedIn](https://www.linkedin.com/in/elyn-beatriz-v-959381150/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynBv&layout=compact)
+
