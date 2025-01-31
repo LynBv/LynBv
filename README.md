@@ -7,7 +7,7 @@ Atualmente sou estudante de **Desenvolvimento Web Full Stack** pelo **Serratec -
 
 ### 🌱 Habilidades
 
-- **Linguagens e Tecnologias:** Java, JavaScript, React.js, Spring Boot, TypeScript
+- **Linguagens e Tecnologias:** Java, JavaScript, React.js, Spring Boot, TypeScript, React Native
 - **Projetos:** Experiência em desenvolvimento de aplicações web e aplicativos mobile
 
 ### 📫 Como me encontrar
