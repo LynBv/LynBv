@@ -1,6 +1,6 @@
 ## 👋 Olá, sou Elyn Beatriz!
 
-Atualmente sou estudante de **Desenvolvimento Web Full Stack** pelo **Serratec - Parque Tecnológico da Região Serrana RJ**.
+Atualmente sou estudante de Ciência da Computação pela Uninter
 
 - 💻 **Foco principal:** Desenvolvimento Web
 - 🎯 **Objetivo:** Tornar-me uma desenvolvedora Full Stack versátil e construir uma carreira sólida em tecnologia
