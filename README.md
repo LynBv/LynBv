@@ -1,6 +1,6 @@
 ## 👋 Olá, sou Elyn Beatriz!
 
-Atualmente sou estudante de Ciência da Computação pela Uninter
+Atualmente sou estudante de Ciência da Computação pela Uninter e estagiária de desenvolvimento pela T2M!
 
 - 💻 **Foco principal:** Desenvolvimento Web
 - 🎯 **Objetivo:** Tornar-me uma desenvolvedora Full Stack versátil e construir uma carreira sólida em tecnologia
